@@ -1,0 +1,13 @@
+var red = [0, 100, 63];
+var orange = [40, 120, 35];
+var green = [75, 70, 40];
+var blue = [196, 77, 30];
+var purple = [280, 50, 60];
+
+var myName = "Theo";
+var letterColors = [blue, green, orange];
+if(15 > 5) { bubbleShape= "circle" } else { bubbleShape = "square" }
+
+
+drawName(myName, letterColors);
+bounceBubbles()
